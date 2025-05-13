@@ -1,0 +1,82 @@
+[
+    {
+      "name": "University of San Carlos",
+      "description": "The University of San Carlos is a Catholic Institution of learning that embodies the principles of academic discipline of San Carlos Borromeo and the missionary charism of the Society of the Divine Word (SVD).",
+      "programs": ["Computer Science", "Business", "Law", "Medicine"],
+      "rank": 1,
+      "image": ["https://www.svdphs.ph/images/usc_main_campus.jpg"],
+      "website": "http://www.usc.edu.ph"
+    },
+    {
+      "name": "University of San Jose-Recoletos",
+      "description": "The University of San Jose–Recoletos, also referred to by its acronym USJ–R or to its colloquially shortened name San Jose, is a private Catholic research and coeducational basic and higher education institution run by the Order of Augustinian Recollects in Cebu City, Cebu, Philippines.",
+      "programs": ["Engineering", "Business", "Education", "Sciences"],
+      "rank": 2,
+      "image": ["https://the-post-assets.sgp1.digitaloceanspaces.com/2023/02/USJ-R_thumbnail.png"],
+      "website": "http://usjr.edu.ph"
+    },
+    {
+      "name": "Cebu Normal University",
+      "description": "Cebu Normal University was established in 1902 as a provincial normal school and a branch of the Philippine Normal School. It became an independent institution in 1924, a chartered college in 1976, and a university in 1998. It is one of the oldest educational institutions in Cebu.",
+      "programs": ["Humanities", "Sciences", "Law", "Medicine"],
+      "rank": 3,
+      "image": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/CNU_Administration_Building.jpg/640px-CNU_Administration_Building.jpg"],
+      "website": "http://cnu.edu.ph"
+    },
+    {
+        "name": "Southwestern University PHINMA",
+        "description": "SWU PHINMA is a school for serious and driven students who are willing to reach the pinnacle of their profession. At SWU PHINMA, students are of the topmost priority, providing each the assistance essential in the students learning journey towards becoming the best that they can be.",
+        "programs": ["Humanities", "Sciences", "Law", "Medicine"],
+        "rank": 4,
+        "image": ["https://mbbsinphilippines.com/wp-content/uploads/2020/10/southwestern-university.jpg"],
+        "website": "https://swu.phinma.edu.ph"
+      },
+      {
+        "name": "Cebu Institute of Medicine",
+        "description": "The Cebu lnstitute of Medicine (CIM) was established in June 1957 as Cebu Institute of Technology College of Medicine. In 1966, CIM became a non-stock, non-profit medical learning institution. Located at the uptown section of Cebu City, CIM has grown to become a leading medical institution outside Metro Manila.",
+        "programs": ["Humanities", "Sciences", "Law", "Medicine"],
+        "rank": 5,
+        "image": ["https://dreammbbs.in/wp-content/uploads/2024/03/Cebu-Institute-of-Medicine-1.webp"],
+        "website": "http://cim.edu.ph"
+      },
+      {
+        "name": "University of Visayas",
+        "description": "The University of the Visayas (UV) is a private institution located in Cebu City, Philippines. It is the first school in the province of Cebu to attain university status.",
+        "programs": ["Humanities", "Sciences", "Law", "Medicine"],
+        "rank": 6,
+        "image": ["https://www.pacu.org.ph/wordpress/wp-content/uploads/2017/06/University-of-the-Visayas.jpg"],
+        "website": "https://www.uv.edu.ph"
+      },
+      {
+        "name": "University of Cebu",
+        "description": "The University of Cebu (UC; Cebuano: Unibersidad sa Sugbo; Filipino: Pamantasan ng Cebu) is a private, non-sectarian, coeducational basic and higher education institution in Cebu City, Philippines.",
+        "programs": ["Humanities", "Sciences", "Law", "Medicine"],
+        "rank": 7,
+        "image": ["https://images.gmanews.tv/regionaltv2023/content_images/article/UC1_2024_03_18_17_52_58.jpg"],
+        "website": "http://uc.edu.ph"
+      },
+      {
+        "name": "Cebu Institute of Technology",
+        "description": "The Cebu Institute of Technology – University (CIT University, or less often CIT-U, and colloquially CIT) is an autonomous, private, non-sectarian academic institution in Cebu City, Philippines. The university provides basic and higher education with a foundation in general and technological education.",
+        "programs": ["Humanities", "Sciences", "Law", "Medicine"],
+        "rank": 8,
+        "image": ["https://cit.edu/wp-content/uploads/2023/07/GLE-Building.jpg"],
+        "website": "http://www.cit.edu"
+      },
+      {
+        "name": "Cebu Technological University",
+        "description": "Cebu Technological University (Cebuano: Kinatumhaang Teknolohiko sa Sugbo), abbreviated as CTU and also known as Cebu Tech, is a public, non-sectarian, coeducational, state-funded higher education institution located in Cebu, Philippines.",
+        "programs": ["Humanities", "Sciences", "Law", "Medicine"],
+        "rank": 9,
+        "image": ["https://www.pacu.org.ph/wordpress/wp-content/uploads/2017/06/University-of-the-Visayas.jpg"],
+        "website": "https://www.ctu.edu.ph"
+      },
+      {
+        "name": "University of Southern Philippines Foundation",
+        "description": "The University of Southern Philippines Foundation Learning Resource Center is a Technical Education and Skills Development Authority (TESDA) Accredited Assessment Center that offers Technical-Vocational Education and Training (TVET) Programs.",
+        "programs": ["Humanities", "Sciences", "Law", "Medicine"],
+        "rank": 10,
+        "image": ["https://www.pacu.org.ph/wordpress/wp-content/uploads/2017/06/University-of-the-Visayas.jpg"],
+        "website": "http://www.uspf.edu.ph"
+      }     
+  ]
